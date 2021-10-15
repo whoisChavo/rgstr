@@ -1,0 +1,47 @@
+{
+     "kayıtLOG": "864465443032399892",
+
+    "Server": {
+        "Id": "861375397203673088",
+        "Tag": "⚚",
+        "Register_Name": ""
+    },
+
+    "Roles": {
+        "Register_Permission": "864489149288546314",
+        "Unregistered": "864494822835879957",
+        "Man": ["864482657500266506"],
+        "Women": ["864482343510605824"],
+        "Booster": "861409309107552277",
+        "Tagged": "864482131426017311",
+        "Bots": "861378208132497419"
+    },
+
+    "Channels": {
+        "Register_Chat": "864458875854913546",
+        "Welcome": "864458875854913546"
+    },
+
+    "Limits": {
+        "Age_Limit": 0,
+        "Cooldown": 2000
+    },
+
+    "Emojis": {
+        "Check": "",
+        "Delete": "",
+        "Safe": "",
+        "Dangerous": "",
+        "Emoji_1": "",
+        "Emoji_2": "",
+        "Emoji_3": "",
+        "Emoji_4": "",
+        "Emoji_5": ""
+    },
+
+    "Embed": {
+        "Color": "RANDOM",
+        "Footer": "Rown Rose❤Register",
+        "Timeout": 10000
+    }
+}
